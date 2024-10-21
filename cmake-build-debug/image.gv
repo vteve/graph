@@ -1,0 +1,6 @@
+digraph G {
+    node [shape=circle, style=filled, color=lightblue, fontcolor=black];
+    a [label="a"];
+    a -> c [color="gold", arrowhead="vee"];
+    c [label="c"];
+}
